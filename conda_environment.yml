@@ -1,0 +1,11 @@
+name: flask_react_sqlite
+dependencies:
+ - python
+ - numpy
+ - matplotlib
+ - pandas
+ - scikit-learn
+ - pip
+ - pip: 
+    - binance-connector
+    - Flask
